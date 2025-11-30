@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Nguyen Dinh Phu 
 
-<!--
-**Nguyen-Dinh-Phu/Nguyen-Dinh-Phu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Researcher specializing in **Computational Mechanics**, with a focus on **Finite Element Method (FEM)** and **Topology Optimization**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **PolyFEM applications in Topology Optimization**.
+- 🌱 I’m researching **Core-shell methods** using Polygonal FEM (PFEM) and Isogeometric Analysis (IGA) for complex geometries.
+- 💻 **Tech Stack & Tools:**
+  - **Languages:** MATLAB.
+  - **Simulation:** Abaqus, Ansys, PolyFEM.
+  - **Research Tools:** LaTeX, Zotero.
+- 🎓 **Goal:** Looking for PhD/Collaboration opportunities in Computational Mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
+[Email](mailto:phu120403@gmail.com) 
