@@ -8,7 +8,6 @@ I am a Researcher specializing in **Computational Mechanics**, with a focus on *
   - **Languages:** MATLAB.
   - **Simulation:** Abaqus, Ansys, PolyFEM.
   - **Research Tools:** LaTeX, Zotero.
-- 🎓 **Goal:** Looking for PhD/Collaboration opportunities in Computational Mechanics.
 
 Connect with me:
 [Email](mailto:phu120403@gmail.com) 
